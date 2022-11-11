@@ -1,0 +1,38 @@
+form{color: black ;
+   font-size: 20px;
+   margin:auto;
+   padding:30px;
+    text-align:center;
+    height: 40%;
+    width: 40%;
+
+   }
+  
+a{
+	color: white;
+}
+   h1{
+      text-align:center; 
+      color: #30336b;
+   background-color: #cf6a87;
+   font-size: 35px;
+   margin:20px 20px 20px 20px;
+   padding:19px;
+}
+h2{
+	   text-align:center; 
+      color: #30336b;
+   font-size: 30px;
+   margin:20px 20px 20px 20px;
+   padding:19px;
+
+}
+
+ body{
+   margin: 0;
+   background-image: url(customerhome.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+
+}

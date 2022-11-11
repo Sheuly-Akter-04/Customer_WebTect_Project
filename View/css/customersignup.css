@@ -1,0 +1,33 @@
+form{color: black ;
+   background-color: #a1c4c599;
+   font-size: 20px;
+   margin:auto;
+   padding:30px;
+    text-align:center;
+    height: 40%;
+    width: 40%;
+
+   }
+  
+
+   h1{
+      text-align:center; 
+      color: red;
+   background-color:greenyellow;
+   font-size: 20px;
+   margin:20px 20px 20px 20px;
+   padding:19px;
+}
+
+ body{
+   margin: 0;
+   background-image: url(customersignup.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+
+}
+ 
+   span{
+      color:red;
+   }

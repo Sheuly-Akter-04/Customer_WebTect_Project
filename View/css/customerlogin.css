@@ -1,0 +1,32 @@
+form{color: black ;
+   font-size: 15px;
+   background-color:#3a6f97cf;
+   margin:auto;
+   padding:30px;
+    text-align:center;
+    height: 40%;
+    width: 40%;
+
+   }
+  a{
+    color: black;
+  }
+   h1{color: #000;
+    text-align:center; 
+   font-size: 50px;
+   margin:20px 20px 20px 20px;
+   padding:19px;
+}
+
+ body{
+   margin: 0;
+   background-image: url(customerlogin.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+
+}
+ 
+   span{
+      color:red;
+   }

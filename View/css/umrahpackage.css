@@ -1,0 +1,39 @@
+form{color: black ;
+   background-color:#a3b9d27d;
+   margin:auto;
+   padding:30px;
+    text-align:center;
+   
+
+   }
+a{
+      color: black;
+     
+   }
+.free{
+	color: green;
+}
+select{
+
+   background-color: #aca9a3;
+}
+
+   h1{
+      text-align:center; 
+      color: #30336b;
+   background-color:#b39c86e6;
+   font-size: 20px;
+   margin:20px 20px 20px 20px;
+   padding:19px;
+}
+ body{
+   margin: 0;
+   background-image: url(umrahpackage.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+
+}
+   span{
+      color:red;
+   }

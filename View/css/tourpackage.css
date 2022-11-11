@@ -1,0 +1,37 @@
+form{color: black ;
+   background-color: #a1c4c599;
+   margin:auto;
+   padding:30px;
+    text-align:center;
+   
+
+   }
+   .free{
+   color: green;
+}
+   a{
+      color: black;
+     
+   }
+
+   h1{
+      text-align:center; 
+      color: #30336b;
+   background-color:#fff;
+   font-size: 20px;
+   margin:20px 20px 20px 20px;
+   padding:19px;
+}
+
+ body{
+   margin: 0;
+   background-image: url(tourpackage.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+
+}
+ 
+   span{
+      color:red;
+   }

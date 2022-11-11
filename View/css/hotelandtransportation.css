@@ -1,0 +1,35 @@
+form{color: black ;
+   background-color: #c2b6b1d4;
+   font-size: 20px;
+   margin:auto;
+   padding:30px;
+    text-align:center;
+    height: 40%;
+    width: 40%;
+
+   }
+  
+
+   h1{
+      text-align:center; 
+      color: #30336b;
+   background-color:#a4c0e58a;
+   font-size: 20px;
+   margin:20px 20px 20px 20px;
+   padding:19px;
+}
+button{
+	background-color: #1275a3;
+}
+ body{
+   margin: 0;
+   background-image: url(hotelandtransportation.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+
+}
+ 
+   span{
+      color:red;
+   }
